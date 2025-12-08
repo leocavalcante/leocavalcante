@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**leocavalcante/leocavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with about **20 years of experience** across diverse fields including advertising, fintech, and developer experience.
 
-Here are some ideas to get you started:
+### 🚀 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about **AI Engineering** — from building agents on top of foundation models to diving deep into machine learning.
+
+### 💼 Background
+
+- 📺 **Advertising** — Building scalable systems for the ad tech industry
+- 💰 **Fintech** — Developing reliable financial technology solutions
+- 🛠️ **Developer Experience** — Creating tools and platforms that make developers' lives easier
+
+### 🤖 AI Focus
+
+- Building intelligent agents powered by foundation models
+- Exploring machine learning applications
+- Bridging the gap between AI capabilities and practical software solutions
