@@ -17,3 +17,7 @@ I'm passionate about **AI Engineering** — from building agents on top of found
 - Building intelligent agents powered by foundation models
 - Exploring machine learning applications
 - Bridging the gap between AI capabilities and practical software solutions
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leocavalcantee/)
