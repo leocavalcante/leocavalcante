@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Software Engineer** with about **20 years of experience** across diverse fields including advertising, fintech, and developer experience.
+I'm a **Technologist** with about **20 years of experience** across diverse fields including advertising, fintech, and developer experience.
 
 ### 🚀 Currently
 
