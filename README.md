@@ -8,7 +8,7 @@ I'm passionate about **AI Engineering** — from building agents on top of found
 
 ### 💼 Background
 
-- 📺 **Advertising** — Building scalable systems for the ad tech industry
+- 📺 **Advertising** — Building scalable systems for ad tech and martech
 - 💰 **Fintech** — Developing reliable financial technology solutions
 - 🛠️ **Developer Experience** — Creating tools and platforms that make developers' lives easier
 
