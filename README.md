@@ -20,7 +20,7 @@ I'm passionate about **AI Engineering** — from building agents on top of found
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leocavalcante&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=leocavalcante&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
 ### 📫 Connect
 
