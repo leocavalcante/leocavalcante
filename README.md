@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/leocavalcante)
+
 I'm a **Technologist** with about **20 years of experience** across diverse fields including advertising, fintech, and developer experience.
 
 ### 🚀 Currently
